@@ -1,0 +1,28 @@
+Function tasks:
+
+1. Write a function to find the maximum of three numbers.
+2.  Write a function to check if a string is a palindrome.
+3.  Write a function to find the factorial of a number.
+4. Write a program to calculate the sum of numbers from 1 to n using recursive function.
+5. Write a function called calculate_area that calculates the area of a rectangle. 
+It should take height and width as arguments, with a default value of 1 for both. 
+(Area of rectangle = height * width)
+6. Write a function that uses a for loop to calculate and return the sum of the squares of the first n 
+natural numbers. 
+7. Write a function called 'calculator'. Create 4 functions inside it namely, 'addition', 'subtraction', 'multiplication' and 'division'.
+Call the 'calculator' function from the outside with two integers as parameter. The 'calculator' function should return result of all
+four operations. (Creating a proper menu is a plus)
+8. Write a python function that takes a list as argument and returns only the unique elements as output.
+Example: my_list = [1,2,2,2,3,3,4,5]
+Output : [1,2,3,4,5]
+(Hint : use type casting)
+
+9. Write a python function that takes height and weight as input from user and calculates their Body Mass Index (BMI).
+Formula for BMI is BMI = (weight in kg)/(height in meter^2)
+Conditions:
+BMI < 18.5: Underweight
+BMI between 18.5 and 24.9: Normal weight
+BMI between 25 and 29.9: Overweight
+BMI ≥ 30: Obese
+
+10. Write a function to check whether the given number is prime or not.
