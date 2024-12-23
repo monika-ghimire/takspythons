@@ -1,0 +1,12 @@
+List Tasks:
+
+1. Write a Python program to multiply all the items in a list.
+2. Write a Python program to remove duplicate items from a list.
+3. Write a Python program to find the list of words that are longer than 5 from a given list of strings:
+student_list = ['Nashib', 'Dibash', 'Sushmita','Aayushma','Rajan']
+4. Write a Python function that takes two lists and returns True if they have at least one common member.
+5. Write a Python program to calculate the difference between the two lists. (hint: use type casting)
+6. Write a Python program to find the second smallest and second largest number in a list.
+7.  Write a python program to reverse words in a sentence without reversing the entire string.
+example:
+"my name is suman" should be "suman is name my"
